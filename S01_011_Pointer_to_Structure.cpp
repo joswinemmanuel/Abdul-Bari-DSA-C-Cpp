@@ -6,7 +6,7 @@ Syntax - 1
 Struct Rectangle {
     int length;
     int breath;
-}
+} 
 
 Int main( ) {
     Struct Rectangle r = { 10, 5 };
