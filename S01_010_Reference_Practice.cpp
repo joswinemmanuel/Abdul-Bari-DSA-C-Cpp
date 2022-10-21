@@ -23,4 +23,4 @@ int main() {
     cout << "a = " << a << " " << "r = " << r << "\n";
     // a = 99 r = 99
     // changing the value of r changes the value of a and vice versa
-}
+} 
