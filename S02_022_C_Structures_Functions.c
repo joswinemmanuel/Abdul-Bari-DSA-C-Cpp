@@ -26,4 +26,4 @@ int main() {
     change_length(&r, 75);
     printf("Area : %d\n", area(r));
     // Area : 3750
-} 
+}  
