@@ -28,4 +28,4 @@ int main() {
     r.change_length(75);
     cout << "Area : " << r.area() << "\n";
     // Area : 375
-}
+} 
