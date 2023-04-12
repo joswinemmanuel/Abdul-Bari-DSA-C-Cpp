@@ -1,4 +1,4 @@
-Array Menu using C
+/* Array Menu using C */
 #include <stdio.h>
 #include<stdlib.h>
 struct Array
