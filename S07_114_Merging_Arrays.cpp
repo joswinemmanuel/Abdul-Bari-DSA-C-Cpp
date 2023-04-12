@@ -1,0 +1,11 @@
+/*
+
+Merging Arrays is combining two arrays into one
+
+If the given arrays are sorted and we have to insert
+elements in a sorted manner
+
+Then we have to add the smaller elements of the arrays
+first
+
+*/
