@@ -1,5 +1,5 @@
 /*
-
+ 
 Question 1:
 suppose  you  are  given  an  array  s[1….n] and a 
 procedure reverse ( s, I , j ) which  reverse  the  order of  elements  in  between position  I  and j (both inclusive). 
