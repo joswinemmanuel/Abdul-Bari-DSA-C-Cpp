@@ -3,7 +3,7 @@
 An array is a collection of elements of the same type 
 placed in contiguous memory locations that can be individually 
 referenced by using an index to a unique identifier.
-
+ 
 */
 
 /*
