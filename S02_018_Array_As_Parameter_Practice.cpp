@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 void print_arr(int arr[], int n) { // instead of arr[], we can use *arr
     for(int i=0; i<n; i++) {
         cout << arr[i] << " ";
