@@ -1,5 +1,5 @@
 /*
-
+ 
  Collection of data members under one name is structure
 
 • Data members can be of similar type or non similar type
